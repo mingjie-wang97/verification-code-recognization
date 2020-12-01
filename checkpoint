@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/mingjie/Documents/verification-code-recognization/0.99captcha.model-17400"
+all_model_checkpoint_paths: "/home/mingjie/Documents/verification-code-recognization/0.95captcha.model-13000"
+all_model_checkpoint_paths: "/home/mingjie/Documents/verification-code-recognization/0.96captcha.model-14200"
+all_model_checkpoint_paths: "/home/mingjie/Documents/verification-code-recognization/0.97captcha.model-14400"
+all_model_checkpoint_paths: "/home/mingjie/Documents/verification-code-recognization/0.98captcha.model-15800"
+all_model_checkpoint_paths: "/home/mingjie/Documents/verification-code-recognization/0.99captcha.model-17400"
